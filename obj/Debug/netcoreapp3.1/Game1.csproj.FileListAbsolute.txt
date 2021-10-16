@@ -1,0 +1,17 @@
+C:\Users\rosha\Documents\Sunstang\SunstangWorkshop\Game1\Game1\bin\Debug\netcoreapp3.1\Game1.exe
+C:\Users\rosha\Documents\Sunstang\SunstangWorkshop\Game1\Game1\bin\Debug\netcoreapp3.1\Game1.deps.json
+C:\Users\rosha\Documents\Sunstang\SunstangWorkshop\Game1\Game1\bin\Debug\netcoreapp3.1\Game1.runtimeconfig.json
+C:\Users\rosha\Documents\Sunstang\SunstangWorkshop\Game1\Game1\bin\Debug\netcoreapp3.1\Game1.runtimeconfig.dev.json
+C:\Users\rosha\Documents\Sunstang\SunstangWorkshop\Game1\Game1\bin\Debug\netcoreapp3.1\Game1.dll
+C:\Users\rosha\Documents\Sunstang\SunstangWorkshop\Game1\Game1\bin\Debug\netcoreapp3.1\Game1.pdb
+C:\Users\rosha\Documents\Sunstang\SunstangWorkshop\Game1\Game1\obj\Debug\netcoreapp3.1\Game1.csproj.AssemblyReference.cache
+C:\Users\rosha\Documents\Sunstang\SunstangWorkshop\Game1\Game1\obj\Debug\netcoreapp3.1\Game1.Form1.resources
+C:\Users\rosha\Documents\Sunstang\SunstangWorkshop\Game1\Game1\obj\Debug\netcoreapp3.1\Game1.Properties.Resources.resources
+C:\Users\rosha\Documents\Sunstang\SunstangWorkshop\Game1\Game1\obj\Debug\netcoreapp3.1\Game1.csproj.GenerateResource.cache
+C:\Users\rosha\Documents\Sunstang\SunstangWorkshop\Game1\Game1\obj\Debug\netcoreapp3.1\Game1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rosha\Documents\Sunstang\SunstangWorkshop\Game1\Game1\obj\Debug\netcoreapp3.1\Game1.AssemblyInfoInputs.cache
+C:\Users\rosha\Documents\Sunstang\SunstangWorkshop\Game1\Game1\obj\Debug\netcoreapp3.1\Game1.AssemblyInfo.cs
+C:\Users\rosha\Documents\Sunstang\SunstangWorkshop\Game1\Game1\obj\Debug\netcoreapp3.1\Game1.csproj.CoreCompileInputs.cache
+C:\Users\rosha\Documents\Sunstang\SunstangWorkshop\Game1\Game1\obj\Debug\netcoreapp3.1\Game1.dll
+C:\Users\rosha\Documents\Sunstang\SunstangWorkshop\Game1\Game1\obj\Debug\netcoreapp3.1\Game1.pdb
+C:\Users\rosha\Documents\Sunstang\SunstangWorkshop\Game1\Game1\obj\Debug\netcoreapp3.1\Game1.genruntimeconfig.cache
